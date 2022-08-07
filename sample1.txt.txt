@@ -1,1 +1,3 @@
 devops git training_06aug2022
+
+devops class
